@@ -28,35 +28,5 @@
       "username": "Phạm Văn K",
       "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
       "email": "phamvank@gmail.com"
-    },
-    {
-      "id": 6,
-      "username": "Trần Thị A",
-      "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
-      "email": "tranthia@gmail.com"
-    },
-    {
-      "id": 7,
-      "username": "Nguyễn Văn D",
-      "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
-      "email": "nguyenvand@gmail.com"
-    },
-    {
-      "id": 8,
-      "username": "Quách Văn C",
-      "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
-      "email": "quachvanc@gmail.com"
-    },
-    {
-      "id": 9,
-      "username": "Lê Minh B",
-      "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
-      "email": "leminhb@gmail.com"
-    },
-    {
-      "id": 10,
-      "username": "Mai Hoàng Q",
-      "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
-      "email": "maihoangq@gmail.com"
-    }
+    }   
   ]
