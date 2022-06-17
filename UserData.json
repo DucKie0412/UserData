@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "username": "Hoàng Thị E",
+      "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+      "email": "hoangthie@gmail.com",
+      "status": "Offline"
+    },
+    {
+      "id": 2,
+      "username": "Bùi Văn F",
+      "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+      "email": "buivanf@gmail.com",
+      "status": "Offline"
+    },
+    {
+      "id": 3,
+      "username": "Nguyễn Văn G",
+      "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+      "email": "nguyenvang@gmail.com",
+      "status": "Offline"
+    },
+    {
+      "id": 4,
+      "username": "Trần Thị H",
+      "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+      "email": "tranthih@gmail.com",
+      "status": "Online"
+    },
+    {
+      "id": 5,
+      "username": "Phạm Văn K",
+      "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+      "email": "phamvank@gmail.com",
+      "status": "Online"
+    },
+    {
+      "id": 6,
+      "username": "Trần Thị A",
+      "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+      "email": "tranthia@gmail.com",
+      "status": "Offline"
+    },
+    {
+      "id": 7,
+      "username": "Nguyễn Văn D",
+      "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+      "email": "nguyenvand@gmail.com",
+      "status": "Online"
+    },
+    {
+      "id": 8,
+      "username": "Quách Văn C",
+      "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+      "email": "quachvanc@gmail.com",
+      "status": "Offline"
+    },
+    {
+      "id": 9,
+      "username": "Lê Minh B",
+      "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+      "email": "leminhb@gmail.com",
+      "status": "Online"
+    },
+    {
+      "id": 10,
+      "username": "Mai Hoàng Q",
+      "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+      "email": "maihoangq@gmail.com",
+      "status": "Offline"
+    }
+  ]
